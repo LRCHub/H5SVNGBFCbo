@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "人生は最高の暇つぶし",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2025-12-04T07:39:53.111923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生は最高の暇つぶし",
+      "artist": "HoneyWorks feat. Hanon",
+      "has_synced": true,
+      "path": "select/01_人生は最高の暇つぶし_HoneyWorks_feat._Hanon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人生は最高の暇つぶし",
+      "artist": "mona",
+      "has_synced": false,
+      "path": "select/02_人生は最高の暇つぶし_mona.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人生は最高の暇つぶし",
+      "artist": "mona(CV.夏川椎菜) feat.HoneyWorks",
+      "has_synced": false,
+      "path": "select/03_人生は最高の暇つぶし_mona(CV.夏川椎菜)_feat.HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人生は最高の暇つぶし",
+      "artist": "mona（CV：夏川椎菜）",
+      "has_synced": false,
+      "path": "select/04_人生は最高の暇つぶし_mona(CV_夏川椎菜).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人生は最高の暇つぶし (feat. Hanon)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/05_人生は最高の暇つぶし_(feat._Hanon)_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人生は最高の暇つぶし",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/06_人生は最高の暇つぶし_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生は最高の暇つぶし",
+      "artist": "HoneyWorks feat. Hanon",
+      "has_synced": false,
+      "path": "select/pl_01_人生は最高の暇つぶし_HoneyWorks_feat._Hanon.txt"
+    }
+  ]
+}
